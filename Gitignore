@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/temp files
+*.tmp
+*.bak
+~*.*
+
+# Node.js / build tools (if you ever add them)
+node_modules/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
